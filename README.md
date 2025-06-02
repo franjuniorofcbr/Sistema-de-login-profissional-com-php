@@ -74,7 +74,6 @@ CREATE TABLE users (
 3. **Configure o arquivo de conexão**
 
 Edite o arquivo `config/database.php` e insira seus dados
-```
 
 4. **Instale o autoload do Composer**
 
@@ -119,6 +118,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## ✍️ Autor
 
-Desenvolvido por [Seu Nome]  
-Contato: [seu-email@email.com]  
-GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
+Desenvolvido por Francisco Junior  
+GitHub: [https://github.com/franjuniorofcbr](https://github.com/franjuniorofcbr)
