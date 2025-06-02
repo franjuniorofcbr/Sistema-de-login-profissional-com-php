@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Se for um arquivo ou diretório existente, não faz nada
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redireciona tudo para /public
+RewriteRule ^(.*)$ public/$1 [L]

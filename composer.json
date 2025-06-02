@@ -1,0 +1,11 @@
+{
+    "name": "harpiadev/project",
+    "description": "Projeto HarpiaDev",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
